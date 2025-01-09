@@ -1,0 +1,6 @@
+"Reference","Value","Qty","DNP","Manufacturer","Part Number","Price","Vendor","Website"
+"R1,R2","5K1","2","","FOJAN","FRC0603J512 TS",".0008","LCSC","https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603J512-TS_C2907114.html"
+"D1","D_Schottky","1","","GOODWORK","B5819WL",".0104","LCSC","https://www.lcsc.com/product-detail/Schottky-Diodes_GOODWORK-B5819WL_C22463588.html"
+"J1","USB_C_Receptacle","1","","HCTL","HC-TYPE-C-24P-DS10.0-CH2.75S-5A-04",".24","LCSC","https://www.lcsc.com/product-detail/USB-Connectors_HCTL-HC-TYPE-C-24P-DS10-0-CH2-75S-5A-04_C5342433.html"
+"U1","Pi_Pico","1","","Raspberry Pi","PICO","6.44","LCSC","https://www.lcsc.com/product-detail/Raspberry-Pi_Raspberry-Pi-PICO_C7203002.html"
+"S1,S2,S3,S4,S5,S6,S7,S8,S9,S10,S11,S12,S13,S14,S15,S16,S17,S18,S19,S20,S21,S22,S23","Keyswitch_Hotswap","23","","Gateron","KS-2P02B01-02",".10","Gateron","https://www.gateron.com/products/gateron-low-profile-switch-hot-swap-pcb-socket?srsltid=AfmBOorivvFkrDIocNY9prhwXcdpAPMgEYg-6mLBf91pTpquXF7Wu6iN&VariantsId=10233"

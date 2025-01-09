@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "BubbleBox_Symbols")(type "KiCad")(uri "${KIPRJMOD}/BubbleBox_Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+)

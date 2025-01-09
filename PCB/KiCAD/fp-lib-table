@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "BubbleBox_Footprints")(type "KiCad")(uri "${KIPRJMOD}/BubbleBox_Footprints.pretty")(options "")(descr ""))
+  (lib (name "fingerpunch")(type "KiCad")(uri "${KIPRJMOD}/fingerpunch.pretty")(options "")(descr ""))
+)

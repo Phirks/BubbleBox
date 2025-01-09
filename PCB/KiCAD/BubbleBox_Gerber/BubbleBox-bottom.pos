@@ -1,0 +1,11 @@
+### Footprint positions - created on 2025-01-04T16:04:21-0500 ###
+### Printed by KiCad version 8.0.7
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val               Package                                             PosX       PosY       Rot  Side
+D1        D_Schottky        D_SOD-123F                                      147.8250   -19.4000    0.0000  bottom
+J1        USB_C_Receptacle  USB-C_port_HC-TYPE-C-24P-DS10.0-CH2.75S-5A-04   144.6250   -12.1400    0.0000  bottom
+R1        5K1               R_0603_1608Metric                               138.3250   -16.5500  -90.0000  bottom
+R2        5K1               R_0603_1608Metric                               140.3250   -18.8500  180.0000  bottom
+U1        Pi_Pico           RPi_Pico_SMD_TH                                 144.1100  -107.8950  180.0000  bottom
+## End

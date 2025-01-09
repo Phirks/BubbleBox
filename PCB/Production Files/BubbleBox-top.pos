@@ -1,0 +1,29 @@
+### Footprint positions - created on 2025-01-04T16:04:21-0500 ###
+### Printed by KiCad version 8.0.7
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                               PosX       PosY       Rot  Side
+S1        Keyswitch  gateron-ks27-choc-v1-mx-hotswap     8.7869   -47.9400  168.0000  top
+S2        Keyswitch  gateron-ks27-choc-v1-mx-hotswap    39.5016   -38.1112  168.0000  top
+S3        Keyswitch  gateron-ks27-choc-v1-mx-hotswap    67.7214   -40.0201  168.0000  top
+S4        Keyswitch  gateron-ks27-choc-v1-mx-hotswap    72.2955   -18.5009  168.0000  top
+S5        Keyswitch  gateron-ks27-choc-v1-mx-hotswap    92.6146   -57.5794  168.0000  top
+S6        Keyswitch  gateron-ks27-choc-v1-mx-hotswap   122.6146   -60.6903  180.0000  top
+S7        Keyswitch  gateron-ks27-choc-v1-mx-hotswap   144.6146   -60.6903  180.0000  top
+S8        Keyswitch  gateron-ks27-choc-v1-mx-hotswap   166.6146   -60.6903  180.0000  top
+S9        Keyswitch  gateron-ks27-choc-v1-mx-hotswap   172.7403  -110.1929  -168.0000  top
+S10       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   177.5223  -132.6903  -168.0000  top
+S11       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   194.6146  -117.3003  -168.0000  top
+S12       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   189.8326   -94.8029  -168.0000  top
+S13       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   192.0405   -36.0602  -168.0000  top
+S14       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   196.6146   -57.5794  -168.0000  top
+S15       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   211.7069  -101.9103  -168.0000  top
+S16       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   216.9337   -18.5009  -168.0000  top
+S17       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   221.5078   -40.0202  -168.0000  top
+S18       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   245.1535   -16.5920  -168.0000  top
+S19       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   249.7275   -38.1112  -168.0000  top
+S20       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   275.8682   -26.4208  -168.0000  top
+S21       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   280.4423   -47.9401  -168.0000  top
+S22       Keyswitch  gateron-ks27-choc-v1-mx-hotswap    94.6146  -117.3003  168.0000  top
+S23       Keyswitch  gateron-ks27-choc-v1-mx-hotswap   111.7069  -132.6903  168.0000  top
+## End
